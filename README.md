@@ -167,14 +167,14 @@ designed to support customers, vendors, and delivery partners.
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/atulsingh1312">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"
       alt="LinkedIn"
     />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:atulsingh1312@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"
       alt="Email"
